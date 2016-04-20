@@ -1,0 +1,11 @@
+svc/proxy_auth_cookie
+svc/z3950
+svc/bibs
+svc/item_types
+svc/collections
+svc/organizations
+svc/collection_codes
+svc/shelving_locations
+local/
+.carton/
+etc/solr/data/
